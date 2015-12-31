@@ -1,3 +1,5 @@
+#!/bin/bash
+
 BUCKET_NAME=$1
 FOLDER_TO_MOUNT=$2
 
